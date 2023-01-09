@@ -12,7 +12,7 @@ To run this application in your local computer do `npm install` to install node 
 
 <br>
 
-## 📌 Live Site URL: <a href="https://react-updating-card-through-use-state.vercel.app/">**Visit Now**</a>
+## 📌 Live Site URL: <a href="https://react-use-effect-prac.vercel.app/">**Visit Now**</a>
 
 <br>
 
